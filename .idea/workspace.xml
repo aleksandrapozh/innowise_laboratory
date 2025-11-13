@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddec835f-26c5-4311-ab38-e3dbec37db7e" name="Changes" comment="Add virtual environment" />
+    <list default="true" id="ddec835f-26c5-4311-ab38-e3dbec37db7e" name="Changes" comment="Add virtual environment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_1/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
